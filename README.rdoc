@@ -4,7 +4,6 @@ I will be building a full tasks application over the weekend.
 
 I am using the following for my test suite:
 
-  gem 'turn'
   gem 'rspec-rails'
   gem 'capybara'
   gem 'guard-rspec'
