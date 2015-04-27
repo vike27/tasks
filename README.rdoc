@@ -6,7 +6,6 @@ I am using the following for my test suite:
 
   gem 'rspec-rails'
   gem 'capybara'
-  gem 'guard-rspec'
   
 Wish me luck!
 
