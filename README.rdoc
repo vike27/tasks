@@ -1,13 +1,14 @@
-Project to Learn TDD using Rails.
+This was a failed project. 
+I ran into way to much trouble configuring the various gems 
+required to make rspec work fast enough for it to be worth using. 
 
-I will be building a full tasks application over the weekend.
+I will be upgrading my development environment to accomodate for Rspec in the coming weeks/months 
+but there were to many unsupported dependencies on windows for this to be worthwhile
 
-I am using the following for my test suite:
+I am instead going to be using Minitest for testing for the next few weeks
 
-  gem 'rspec-rails'
-  gem 'capybara'
-  
-Wish me luck!
+Here is a gist with a really cool introductory exercise 
+I worked on instead: https://gist.github.com/vike27/2ae0d425f46c01851e15
 
-Plan to use this as a code basis to share with friends who want to learn TDD in the future. Great first exercise!
 
+More to come!
